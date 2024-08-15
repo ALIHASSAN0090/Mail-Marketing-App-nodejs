@@ -1,0 +1,14 @@
+//jshint esversion: 6
+
+
+
+first 
+
+1-  make files (touch app.js signup.html sucess.html failure.html)
+2- install npm (npm init)
+3- install npm modules (npm install express body-parser request)
+
+//mailchimp , username : mailchimp285 , pw: Email285!
+
+
+
